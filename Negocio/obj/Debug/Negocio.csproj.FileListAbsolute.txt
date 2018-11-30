@@ -1,0 +1,21 @@
+C:\TI\trunk\Analistas\TesteCSharp\Negocio\bin\Debug\Negocio.dll
+C:\TI\trunk\Analistas\TesteCSharp\Negocio\bin\Debug\Negocio.pdb
+C:\TI\trunk\Analistas\TesteCSharp\Negocio\bin\Debug\Npgsql.dll
+C:\TI\trunk\Analistas\TesteCSharp\Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\TI\trunk\Analistas\TesteCSharp\Negocio\bin\Debug\Npgsql.xml
+C:\TI\trunk\Analistas\TesteCSharp\Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\TI\trunk\Analistas\TesteCSharp\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\TI\trunk\Analistas\TesteCSharp\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\TI\trunk\Analistas\TesteCSharp\Negocio\obj\Debug\Negocio.dll
+C:\TI\trunk\Analistas\TesteCSharp\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\Negocio\bin\Debug\Npgsql.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\Negocio\bin\Debug\Npgsql.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\Negocio\obj\Debug\Negocio.pdb

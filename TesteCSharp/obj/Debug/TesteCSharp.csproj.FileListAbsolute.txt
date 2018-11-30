@@ -1,0 +1,183 @@
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.csprojResolveAssemblyReference.cache
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.csproj.CoreCompileInputs.cache
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\ApplicationInsights.config
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\csc.exe
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\csc.exe.config
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\csc.rsp
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\csi.exe
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\csi.exe.config
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\csi.rsp
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.AppContext.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Collections.Immutable.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Console.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Diagnostics.Process.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.IO.Compression.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.IO.FileSystem.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.IO.Pipes.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Reflection.Metadata.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.AccessControl.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Claims.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Threading.Thread.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.ValueTuple.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Xml.XPath.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\vbc.exe
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\vbc.exe.config
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\vbc.rsp
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\VBCSCompiler.exe
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\roslyn\VBCSCompiler.exe.config
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\TesteCSharp.dll.config
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\TesteCSharp.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\TesteCSharp.pdb
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Antlr3.Runtime.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\AspNet.ScriptManager.jQuery.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AI.DependencyCollector.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AI.Web.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AI.WindowsServer.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.ApplicationInsights.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.Web.Infrastructure.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Negocio.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Newtonsoft.Json.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\System.Web.Optimization.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\WebGrease.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Npgsql.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\System.Threading.Tasks.Extensions.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Negocio.pdb
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Antlr3.Runtime.pdb
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AI.DependencyCollector.xml
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AI.Web.xml
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AI.WindowsServer.xml
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.ApplicationInsights.xml
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Newtonsoft.Json.xml
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\System.Web.Optimization.xml
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\Npgsql.xml
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\bin\System.Threading.Tasks.Extensions.xml
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.dll
+C:\TI\trunk\Analistas\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.pdb
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\ApplicationInsights.config
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\csc.exe
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\csc.exe.config
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\csc.rsp
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\csi.exe
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\csi.exe.config
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\csi.rsp
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.AppContext.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Console.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\vbc.exe
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\vbc.exe.config
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\vbc.rsp
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\TesteCSharp.dll.config
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\TesteCSharp.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\TesteCSharp.pdb
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Antlr3.Runtime.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AI.Web.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Negocio.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Newtonsoft.Json.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\System.Web.Optimization.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\WebGrease.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Npgsql.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Negocio.pdb
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Antlr3.Runtime.pdb
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AI.Web.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Newtonsoft.Json.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\System.Web.Optimization.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\Npgsql.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.csproj.CopyComplete
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.dll
+C:\Users\Carlos Damarate\Desktop\Prova\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.pdb
